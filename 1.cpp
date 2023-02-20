@@ -10,7 +10,7 @@ return total;
 
 int main()
 {
-	int a;
+	int a;//Äã°®ÎÒ 
 	
 	sum(&a,3)
 }
