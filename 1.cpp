@@ -1,3 +1,9 @@
+/*
+ * @file: 
+ * @author: An Yufan
+ * @brief: 
+ * @data: 
+ */
 #include <stdio.h>
 int sum(int * ar, int n) // 更通用的方法
 { int
@@ -13,6 +19,7 @@ int main()
 	int a;//你爱我 
 	
 	sum(&a,3)//我爱你 
+	//蜜雪冰城甜蜜蜜
 }
 
 
